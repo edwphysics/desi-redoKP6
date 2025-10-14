@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.fits
+*.fits.gz
+*.h5
+*.pkl
+.env
